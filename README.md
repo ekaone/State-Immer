@@ -1,7 +1,7 @@
 # This app work with some cool technologies:
 
-- [Immer](https://immerjs.github.io/immer/docs/introduction).
-- [Create React App](https://github.com/facebook/create-react-app).
+- [Immer](https://immerjs.github.io/immer/docs/introduction)
+- [Create React App](https://github.com/facebook/create-react-app)
 
 ## Author
 ✔ Eka Prasetia 🤵

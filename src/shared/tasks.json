@@ -1,0 +1,7 @@
+[
+  { "id": 1, "todo": "Learn typescript", "done": true },
+  { "id": 2, "todo": "Try immer", "done": false },
+  { "id": 3, "todo": "Try Zuztand", "done": false },
+  { "id": 4, "todo": "Try Jotai", "done": true },
+  { "id": 5, "todo": "Try Redux", "done": false }
+]
